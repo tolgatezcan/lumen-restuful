@@ -1,6 +1,6 @@
 # Lumen with JWT Authentication
 
-Produces random hash with jwt in simple level and log hash operations using monolog.
+Produces random hash with jwt in simple level and log hash operations using monolog..
 
 ## Getting Started
 
